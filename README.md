@@ -5,4 +5,8 @@ you can mine data about a set of products, get a large corpus of text or quantit
 
 Install Scrapy before move on crawling
 
-    $ pip install scrapy
+    $ pip install scrapy 
+            or
+    $ pip install beautifulsoup4
+    
+    
